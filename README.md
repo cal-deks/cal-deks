@@ -1,10 +1,10 @@
-# 👋 Hi There!
+<h1 align="center">
+  👋🏾 Hi There, I'm <span style="color:#00BFFF;">Calvin Deka</span>
+</h1>
 
-### I'm Calvin Deka
-
-🎓 Computer Science & Mathematics student at Kenyon College  
-🔬 AI Researcher – Building scalable edtech systems powered by GPT-4  
-💡 Passionate about intelligent tutoring systems, APIs, and full-stack development
+<p align="center">
+  🎓 <strong>Computer Science and Mathematics Student at Kenyon College</strong>
+</p>
 
 ---
 
@@ -24,5 +24,17 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)  
-📧 calvindeka@email.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/calvin-kofi-deka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/cal-deks/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/caldeks/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:calvindeka7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
